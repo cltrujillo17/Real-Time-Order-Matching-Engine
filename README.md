@@ -61,7 +61,9 @@ streamlit run gui.py
 
 ## 📷 Screenshots
 ![Screenshot 2025-04-04 at 6 00 02 PM](https://github.com/user-attachments/assets/ca81be8e-177b-46b4-b9d5-ace8b48e5f3b)
-![Screenshot 2025-04-04 at 6 00 02 PM](https://github.com/user-attachments/assets/1216138c-c156-4e78-925f-a3e7bb9f0275)
+
+![Screenshot 2025-04-04 at 6 00 21 PM](https://github.com/user-attachments/assets/7f05d159-bd86-4f0d-8bca-ac8d000836be)
+
 
 
 
